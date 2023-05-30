@@ -48,7 +48,7 @@ function mainMenu() {
     default:
       log(error("Please select an appropriate option."));
       mainMenu();
-  }
+  }//this is comment by Hardik to understand fork
 }
 
 function confirmReturnToMainMenu() {
